@@ -31,7 +31,7 @@ Essa aplicação foi desenvolvida para informador o índice de massa corporal de
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/5ULRN89682cnvQrdjsSg1B/Jogo-Adivinhação-(Copy)?node-id=0%3A1&t=ob1v8x2XtMQbjjEN-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/WOSn1lEqMSMKxrUF7TYWZa/IMC-(Copy)?t=s4U6tSq1XN1D46ZZ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
