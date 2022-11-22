@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Essa aplicação foi desenvolvida para informador o índice de massa corporal de uma pessoa através do seu peso e altura.
 
 ## 🔗 Link
-[Jogo da advinhacao](https://alanrehfeldt.github.io/ExplorerStage05-Calculadora_imc/)
+[Acesse aqui](https://alanrehfeldt.github.io/ExplorerStage05-Calculadora_imc/)
 
 ## 🔖 Layout
 
